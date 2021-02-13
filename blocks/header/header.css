@@ -1,0 +1,21 @@
+.header {
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    /* выше установили ограничения для секции */
+    position: relative;
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    overflow: hidden;
+  }
+/* section, h2, p, ul, li, h3, img iframe span {
+     border: solid 1px red; 
+  }  
+ div {
+  border: solid 1px red;
+ } */

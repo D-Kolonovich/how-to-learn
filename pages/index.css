@@ -68,8 +68,8 @@
 @import url("../blocks/resources/__logo-zone/resources__logo-zone.css");
 @import url("../blocks/resources/__logo/resources__logo.css");
 @import url("../blocks/hover/hover.css");
-@import url("../blocks/resources/__logo/_image/resources__logo_image-arzamas.css");
-@import url("../blocks/resources/__logo/_image/resources__logo_image-n1.css");
-@import url("../blocks/resources/__logo/_image/resources__logo_image-strelka.css");
-@import url("../blocks/resources/__logo/_image/resources__logo_image-polka.css");
+@import url("../blocks/resources/__logo/_image/resources__logo_image_arzamas.css");
+@import url("../blocks/resources/__logo/_image/resources__logo_image_n1.css");
+@import url("../blocks/resources/__logo/_image/resources__logo_image_strelka.css");
+@import url("../blocks/resources/__logo/_image/resources__logo_image_polka.css");
 
